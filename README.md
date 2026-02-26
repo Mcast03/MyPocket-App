@@ -41,7 +41,9 @@ CREATE TABLE configuracion (
 
 INSERT INTO configuracion (id, meta_ahorro) VALUES (1, 0);
 COMMIT;
-2. Descargar la Aplicación
+```
+
+##2. Descargar la Aplicación
 Ve a la sección de Releases.
 
 Descarga el archivo MyPocket_v1.exe (o el .zip si prefieres el JAR).
@@ -77,4 +79,4 @@ Seguridad: El código fuente es privado; solo se distribuyen binarios optimizado
 
 UI/UX: Interfaz nativa Dark Mode para reducir la fatiga visual.
 
-Desarrollado por [Tu Nombre/Mcast03] - 2026
+Desarrollado por Miguel Castillero - 2026
