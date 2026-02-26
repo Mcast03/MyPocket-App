@@ -22,7 +22,7 @@ ALTER USER c##mypocket QUOTA UNLIMITED ON USERS;
 ##2. Descargar la Aplicación
 Ve a la sección de Releases.
 
-Descarga el archivo MyPocket_v1.exe (o el .zip si prefieres el JAR).
+Descarga el archivo MyPocket_v1.exe.
 
 3. Iniciar la App
 Haz doble clic en el ejecutable.
